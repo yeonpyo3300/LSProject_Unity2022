@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); justify-content: flex-start; background-image: url(&apos;project://database/Assets/Environment/Sprites/Altar/Altar%20Packed/Sprite_Altar_1.png?fileID=2800000&amp;guid=23f9958b9c709bb48923bea13d4a70d6&amp;type=3#Sprite_Altar_1&apos;); height: 113px; width: 180px; max-height: 50px; max-width: 50px;" />
+    <ui:Label tabindex="-1" text="Example Scene 1" display-tooltip-when-elided="true" style="color: rgb(0, 221, 2); font-size: 12px; -unity-font-style: bold;" />
+</ui:UXML>

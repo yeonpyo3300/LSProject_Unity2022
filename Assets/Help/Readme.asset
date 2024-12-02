@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: bfd3f357eb4a64d5faf8f3346200600e, type: 3}
+  title: 'Lost Crypt: 2D Sample Project (Android Large Screen)'
+  sections:
+  - heading: What is Lost Crypt?
+    text: 'This example is based on the Lost Crypt 2D sample project available from the Unity Asset Store'
+    linkText: Asset Store link
+    url: https://assetstore.unity.com/packages/essentials/tutorial-projects/lost-crypt-2d-sample-project-158673
+  - heading: 'Webinar: New 2D Graphics Features'
+    text: "Changes"
+    linkText: Watch the webinar
+    url: https://www.youtube.com/watch?v=vRPW3H4X9PE
+  - heading: 'Presentation: Bringing 2D Characters to life with 2D Animation'
+    text: "Changes"
+    linkText: Watch the presentation
+    url: https://www.youtube.com/watch?v=vap04-Py9QM
+  - heading: 'Presentation overview: The evolution of 2D game tools'
+    text: "Changes"
+    linkText: Watch the presentation
+    url: https://www.youtube.com/watch?v=-wms7mDShag
+  - heading: Got feedback?
+    text: Please reach us about Lost Crypt or any 2D tools in the forum
+    linkText: Forum Thread
+    url: https://forum.unity.com/forums/2d.53/
+  loadedLayout: 1

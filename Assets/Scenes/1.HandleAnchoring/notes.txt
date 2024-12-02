@@ -1,0 +1,6 @@
+Changes to this scene from the original:
+	Canvas updated to be safe-frame aware
+	Controls for movement and jump anchored to lower left and lower right of screen
+	Border canvas updated to scale to the size of the window (breaks aspect ratio)
+	Main Camera aspect ratio clamped at 1.86
+	Background Camera fill added
